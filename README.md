@@ -8,11 +8,12 @@ This is a tool for automatic time-stamped transcription and voice/accompaniment 
    
    Follow the instructions to install the following in your project's conda environment:
 
-2. Whisperx (https://github.com/m-bain/whisperX)
+2. Whisperx (https://github.com/m-bain/whisperX) - 3.1.1
 
-3. Spleeter (https://github.com/deezer/spleeter)
+3. Spleeter (https://github.com/deezer/spleeter) - 2.4.0
 
 4. <a href="https://www.ffmpeg.org/">FFMPEG</a>: It will be installed during the process of installing Spleeter but make sure that it is available in the terminal before you run the code.
+5. Moviepy - 1.0.3
 
 ## Using the Script
 

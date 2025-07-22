@@ -3,7 +3,7 @@ import subprocess
 import csv
 import json
 import string
-from moviepy.editor import VideoFileClip
+from moviepy import *
 
 def process_audio_files(input_directory, output_directory):
     # Ensure the output directory exists
