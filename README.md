@@ -1,6 +1,6 @@
 ## Automatic time-stamped transcription and voice/accompaniment separation
 
-This is a tool for automatic time-stamped transcription and voice/accompaniment separation for video files. It is based on Whisperx (https://github.com/m-bain/whisperX) and Spleeter (https://github.com/deezer/spleeter).
+This is a tool for automatic time-stamped transcription and voice/accompaniment separation for video files. It is based on Whisperx (https://github.com/m-bain/whisperX) and Spleeter (https://github.com/deezer/spleeter). The python version for the testing is 3.10.15.
 
 ## Set Up
 
